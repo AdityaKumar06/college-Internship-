@@ -42,18 +42,6 @@ How to run the college internship  Project
 - **Faculty:** Approve applications and provide feedback.
 - **Students:** Apply, submit documents, and track progress.
 
-## Contributing
-
-See `CONTRIBUTING.md` for guidelines.
-
-## License
-
-This project is under the [MIT License](LICENSE). 
-
-## Acknowledgments
-
-Thanks to the open-source community for contributions.
-
 ---
 
 Feel free to adapt and add specific details based on your project's requirements.
