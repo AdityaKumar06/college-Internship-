@@ -45,3 +45,28 @@ How to run the college internship  Project
 ---
 
 Feel free to adapt and add specific details based on your project's requirements.
+
+Screenshots:-
+
+![c1](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/22b36e74-e0b2-408d-b0b3-a9a31879766a)
+
+
+
+![c2](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/eff83214-2e69-42bb-9a0f-ab6b9689c506)
+
+
+
+![c3](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/6c991e49-a0da-482e-a539-a812fc41bd60)
+
+
+
+![c4](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/31e5ec2a-f5e3-473f-bf75-1b90f33df68b)
+
+
+
+![c6](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/8bbebeaf-a3ee-4c85-bee5-b9530e4e4907)
+
+
+
+![c7](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/6ce2d3a6-ab9f-40a2-a9ba-690e3064c932)
+
