@@ -64,9 +64,5 @@ Screenshots:-
 
 
 
-![c6](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/8bbebeaf-a3ee-4c85-bee5-b9530e4e4907)
-
-
-
 ![c7](https://github.com/AdityaKumar06/college-Internship-/assets/132258134/6ce2d3a6-ab9f-40a2-a9ba-690e3064c932)
 
